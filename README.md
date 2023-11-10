@@ -1,4 +1,4 @@
 - Hi, I’m @FranciscoKirhman
 - I’m interested in Data Analysis
 - I’m always learning new programming languages
-- Reach me on franckirhman@gmail.com
+- Reach me on franckirhman@gmail.com or in my web page: https://franciscokirhman.wixsite.com/portfolio
